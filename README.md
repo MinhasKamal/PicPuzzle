@@ -1,7 +1,7 @@
 # PicPuzzle
 #### Simple AI Aided Sliding Puzzle Game
 
-It is a plain Sliding Puzzle game, but the interesting part is- it includes an Artificial Intelligent that can arrange the pieces for you. It also keeps record of the top 5 fastest slovers.
+It is a [plain Sliding Puzzle game](http://minhaskamal.github.io/PicPuzzle), but the interesting part is- it includes an Artificial Intelligent that can arrange the pieces for you. It also keeps record of the top 5 fastest slovers.
 
 ### Views
   <div align="center">
