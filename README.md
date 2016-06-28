@@ -1,4 +1,4 @@
-# PicPuzzle
+# :ghost: PicPuzzle
 #### Naive AI Aided Sliding Puzzle Game
 
 It is a [plain Sliding Puzzle game](http://minhaskamal.github.io/PicPuzzle), but the interesting part is- it includes an Artificial Intelligent that can arrange the pieces for you. It also keeps record of the top 5 fastest solvers.
