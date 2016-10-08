@@ -3,11 +3,9 @@
 
 It is a [plain Sliding Puzzle game](http://minhaskamal.github.io/PicPuzzle), but the interesting part is- it includes an Artificial Intelligent that can arrange the pieces for you. It also keeps record of the top 5 fastest solvers.
 
-### Views
+### View
   <div align="center">
-  <img src="https://cloud.githubusercontent.com/assets/5456665/12999222/215ad786-d177-11e5-92e6-80c573fd80a9.png" height="230" width="290" >
-  <img src="https://cloud.githubusercontent.com/assets/5456665/12999223/215db3de-d177-11e5-8c31-8608916547c2.png" height="230" width="290" >
-  <img src="https://cloud.githubusercontent.com/assets/5456665/12999221/20f345d0-d177-11e5-85c2-3a8cfa34b397.png" height="230" width="290" >
+  <img src="https://cloud.githubusercontent.com/assets/5456665/19212816/bb0b7d02-8d7b-11e6-92e3-27c4966a657c.gif" width="520" height="auto" />
   </div>
 
 ### Releases
