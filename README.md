@@ -17,4 +17,4 @@ It is a [plain Sliding Puzzle game](http://minhaskamal.github.io/PicPuzzle), but
 - <a href="https://github.com/MinhasKamal/PicPuzzle/raw/release/PicPuzzle_V-1.1.jar">Version 1.1</a> - Release Date: 03 Dec 2013
 
 ### License
-<a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>PicPuzzle is licensed under a <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
+<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://cloud.githubusercontent.com/assets/5456665/18950087/fbe0681a-865f-11e6-9552-e59d038d5913.png" width="60em" height=auto/></a><br/><a href="https://github.com/MinhasKamal/PicPuzzle">PicPuzzle</a> is licensed under <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
